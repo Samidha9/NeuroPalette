@@ -1,11 +1,6 @@
 # 🎨 Neural Style Transfer Web App
 
 A minimalist web app built with **Streamlit** and **PyTorch** that applies neural style transfer to blend a content image with an artistic style image — producing AI-generated artwork.
-
-<p align="center">
-  <img src="preview.png" alt="App Preview" width="600"/>
-</p>
-
 ---
 
 ## 🖌️ Features
@@ -20,7 +15,7 @@ A minimalist web app built with **Streamlit** and **PyTorch** that applies neura
 
 ## 🚀 Live Demo
 
-> *[(Optional: Add Streamlit Community Cloud or ngrok link here)](https://neuropalette.streamlit.app/)*
+> *[App Link](https://neuropalette.streamlit.app/)*
 
 ---
 
